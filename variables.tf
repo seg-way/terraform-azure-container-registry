@@ -12,7 +12,7 @@ variable "location" {
 }
 variable "sku_name" {
   type        = string
-  default     = "basic"
+  default     = "Basic"
   description = "(optional) describe your variable"
 }
 
